@@ -1,4 +1,4 @@
-package Oscar.fundamentos;
+package fundamentos;
 
 public class HolaMundo {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Oscar.fundamentos;
+package fundamentos;
 
 import java.io.BufferedReader;
 import java.io.IOException;

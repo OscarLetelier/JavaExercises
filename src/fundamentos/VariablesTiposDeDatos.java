@@ -1,4 +1,4 @@
-package Oscar.fundamentos;
+package fundamentos;
 
 public class VariablesTiposDeDatos {
     public static void main(String[] args) {
