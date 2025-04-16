@@ -1,4 +1,4 @@
-package fundamentos;
+package Oscar.fundamentos;
 
 import java.util.Scanner;
 
