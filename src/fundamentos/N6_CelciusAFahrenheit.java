@@ -2,7 +2,7 @@ package fundamentos;
 
 import java.util.Scanner;
 
-public class CelciusAFahrenheit {
+public class N6_CelciusAFahrenheit {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 

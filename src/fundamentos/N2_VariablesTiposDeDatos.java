@@ -1,6 +1,6 @@
 package fundamentos;
 
-public class VariablesTiposDeDatos {
+public class N2_VariablesTiposDeDatos {
     public static void main(String[] args) {
 
         // Tipos de DAtos

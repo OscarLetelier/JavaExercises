@@ -2,7 +2,7 @@ package fundamentos;
 
 import java.util.Scanner;
 
-public class GeometriaSimpleRectangulo {
+public class N5_GeometriaSimpleRectangulo {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 

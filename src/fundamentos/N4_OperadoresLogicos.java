@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 // Deteminar si la persona puede ingresar, o si debe ingresar junto a un adulto
 
-public class OperadoresLogicos {
+public class N4_OperadoresLogicos {
     public static void main(String[] args) {
 
         int edadMinima = 14;

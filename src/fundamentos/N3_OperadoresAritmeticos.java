@@ -2,7 +2,7 @@ package fundamentos;
 
 import java.util.Scanner;
 
-public class OperadoresAritmeticos {
+public class N3_OperadoresAritmeticos {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 

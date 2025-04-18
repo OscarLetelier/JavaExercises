@@ -2,7 +2,7 @@ package fundamentos;
 
 import java.util.Scanner;
 
-public class ParOImpar {
+public class N7_ParOImpar {
     public static void main(String[] args) {
         System.out.println("Ingresa un Numero para Deteminar si este es Par o Impar : ");
         Scanner input = new Scanner(System.in);

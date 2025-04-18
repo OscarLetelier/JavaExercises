@@ -2,7 +2,7 @@ package fundamentos;
 
 import java.util.Scanner;
 
-public class GeometriaSimpleCuadrado {
+public class N5_GeometriaSimpleCuadrado {
     public static void main(String[] args) {
         System.out.println("Calculo del Area de un Cuadrado");
         Scanner input = new Scanner(System.in);
