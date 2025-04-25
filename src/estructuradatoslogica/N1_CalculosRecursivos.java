@@ -4,7 +4,7 @@ package estructuradatoslogica;
     Calcular N! = N * (N-1) x...x1 Pide N al usuario.
     Usando un bucle for o while. considera el caso base (0! = 1).
 
-    Este caso de utilizacion while
+    Este caso se utiliza while
  */
 
 import java.util.Scanner;
