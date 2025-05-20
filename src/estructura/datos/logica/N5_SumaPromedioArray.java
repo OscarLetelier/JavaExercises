@@ -1,4 +1,4 @@
-package estructuradatoslogica;
+package estructura.datos.logica;
 
 /*
     Objetivo: Realizar calculos agregados (suma, promedio) sobre elementos de un array.

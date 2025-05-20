@@ -1,4 +1,4 @@
-package estructuradatoslogica;
+package estructura.datos.logica;
 
 /*
 Objetivo: Implementar un algoritmo simple para encontrar los valores extremos maximo y

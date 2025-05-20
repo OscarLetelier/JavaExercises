@@ -1,4 +1,4 @@
-package estructuradatoslogica;
+package estructura.datos.logica;
 
 /*
     Aprender a declarar, inicializar y recorrer arrays unidimensionales de tamaño fijo.

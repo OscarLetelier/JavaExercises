@@ -1,4 +1,4 @@
-package estructuradatoslogica;
+package estructura.datos.logica;
 
 /*
     Pide un número. Determina si es primo (Solo es divisible por 1

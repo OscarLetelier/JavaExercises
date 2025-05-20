@@ -1,4 +1,4 @@
-package estructuradatoslogica;
+package estructura.datos.logica;
 
 /*
    Genera los primeros N números de Fibonacci (0, 1, 1, 2, 3, 5...).
