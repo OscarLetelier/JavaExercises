@@ -1,4 +1,4 @@
-package fase1.one_fundamentos;
+package fase1.fundamentos;
 /*
 🎯 Objetivo Específico: Implementar bucles que se repiten mientras una condición sea verdadera.
 💡 Por qué es importante: Perfecto cuando no sabes cuántas iteraciones, pero sí cuándo parar (ej: hasta input válido, mientras haya datos).

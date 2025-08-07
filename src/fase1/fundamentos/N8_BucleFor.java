@@ -1,4 +1,4 @@
-package fase1.one_fundamentos;
+package fase1.fundamentos;
 
 /*
 Objetivo:

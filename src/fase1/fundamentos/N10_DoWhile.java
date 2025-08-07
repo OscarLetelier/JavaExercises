@@ -1,9 +1,9 @@
-package fase1.one_fundamentos;
+package fase1.fundamentos;
 
-import fase1.one_fundamentos.clasesdowhile.CelciusAFahrenheit;
-import fase1.one_fundamentos.clasesdowhile.FahrenheitACelcius;
-import fase1.one_fundamentos.clasesdowhile.GeometriaSimpleCirculo;
-import fase1.one_fundamentos.clasesdowhile.GeometriaSimpleCuadrado;
+import fase1.fundamentos.clasesdowhile.CelciusAFahrenheit;
+import fase1.fundamentos.clasesdowhile.FahrenheitACelcius;
+import fase1.fundamentos.clasesdowhile.GeometriaSimpleCirculo;
+import fase1.fundamentos.clasesdowhile.GeometriaSimpleCuadrado;
 
 import java.util.Scanner;
 

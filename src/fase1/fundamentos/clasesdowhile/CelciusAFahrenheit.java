@@ -1,4 +1,4 @@
-package fase1.one_fundamentos.clasesdowhile;
+package fase1.fundamentos.clasesdowhile;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package fase1.one_fundamentos;
+package fase1.fundamentos;
 
 public class N1_HolaMundo {
     public static void main(String[] args) {

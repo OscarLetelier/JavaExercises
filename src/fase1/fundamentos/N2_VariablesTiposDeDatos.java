@@ -1,4 +1,4 @@
-package fase1.one_fundamentos;
+package fase1.fundamentos;
 
 public class N2_VariablesTiposDeDatos {
     public static void main(String[] args) {

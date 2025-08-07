@@ -1,4 +1,4 @@
-package fase1.one_fundamentos;
+package fase1.fundamentos;
 
 // Calcula el área de un círculo (πr2). Usa Math.PI y Math.pow().
 import java.util.Scanner;
